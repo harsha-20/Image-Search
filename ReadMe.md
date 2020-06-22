@@ -64,3 +64,8 @@ Query Image            |  Search Result 1              | Search Result 2
 Query Image            |  Search Result 1              | Search Result 2
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](queries/Hand_0008111.jpg)  |  ![](results/sift/Hand_0008110.jpg)  |  ![](results/sift/Hand_0011498.jpg)
+
+# Conclusions:
+
+The intricacies of a dealing with vector based representation of multimedia objects was observed in areas spanning that can help retrieve results based on distance measures. Eﬃcient representation of multimedia objects using feature vectors using feature descriptors-LBP and SIFT was implemented, storing the obtained results in a ﬁle system and to see how it helps the ease the process of comparison.For now, cosine similarity was used to measure similarity between LBP and FLANN Matcher was used to match the keypoints in SIFT. The results can be further improved by experimenting with different similarity metrics like chi square distance.
+
