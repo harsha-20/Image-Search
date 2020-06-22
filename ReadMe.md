@@ -55,10 +55,12 @@ User can run each of the tasks as simple python scripts, with different options 
 
 # Results:
 
-### LBP
+#### LBP
 Query Image            |  Search Result 1              | Search Result 2
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)  |  ![](results/lbp/Hand_0008130.jpg)
 	
-**SIFT**
-
+#### SIFT
+Query Image            |  Search Result 1              | Search Result 2
+:-------------------------:|:-------------------------:|:-------------------------:
+![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)  |  ![](results/lbp/Hand_0008498.jpg)
