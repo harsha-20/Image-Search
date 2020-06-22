@@ -17,17 +17,14 @@ The main objective of this phase to convert the image to a different vector spac
 # Requirments
 The system successfully runs on an windows and linux machines with Anaconda3. Programs leverage use of the pandas package for Dataframes, numpy for the arrays, to ensure the direct functional use of feature descriptors i.e,SIFT and LBP we used packages directly available from the opencv-python and scikit-image libraries respectively. Therefore, one needs to install the following packages:
 
-conda create -n myenv python=3.6
 
-conda activate myenv
-
-conda install -c menpo opencv
-
-conda install -c anaconda scipy
-
-conda install -c anaconda numpy
-
-conda install -c conda-forge scikit-image
+ **Run the following commands:**
+ 
+     conda create -n myenv python=3.6
+     conda activate myenv
+     conda install -c menpo opencv
+     conda install -c anaconda scipy
+     conda install -c anaconda numpy
 
 # Instructions to run
 User can run each of the tasks as simple python scripts, with different options as command line arguments.Below are the sample command line executions for each tasks
