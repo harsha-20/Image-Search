@@ -5,23 +5,23 @@ The main objective of this phase to convert the image to a different vector spac
 
 
 # Files
-**feature_descriptors.py** - Python file which class implementation of SIFT and LBP
+	**feature_descriptors.py** - Python file which class implementation of SIFT and LBP
 
-**task1.py**-  Python script for Task1
+	**task1.py**-  Python script for Task1
 
-**index.py** - Python script for Task2
+	**index.py** - Python script for Task2
 
-**searcher.py** - Python script with class implementation of similarity and matching
+	**searcher.py** - Python script with class implementation of similarity and matching
 
-**search.py** - Python script for Task3
+	**search.py** - Python script for Task3
 
-**small_db** - folder with small set of images
+	**small_db** - folder with small set of images
 
-**results/lbp** - folder where the search results will be stored for lbp descriptor
+	**results/lbp** - folder where the search results will be stored for lbp descriptor
 
-**results/sift** - folder where the search  results will be stored for sift descriptor
+	**results/sift** - folder where the search  results will be stored for sift descriptor
 
-**Report.pdf** - Report
+	**Report.pdf** - Report
 
 # Requirments
 The system successfully runs on an windows and linux machines with Anaconda3. Programs leverage use of the pandas package for Dataframes, numpy for the arrays, to ensure the direct functional use of feature descriptors i.e,SIFT and LBP we used packages directly available from the opencv-python and scikit-image libraries respectively. Therefore, one needs to install the following packages:
