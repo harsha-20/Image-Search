@@ -55,12 +55,11 @@ User can run each of the tasks as simple python scripts, with different options 
 
 # Results:
 
--LBP
+### LBP
 
--Query Image![query image](queries/Hand_0008111.jpg)
--Format: ![query image](https://github.com/harsha-20/Image-Search/blob/master/queries/Hand_0008111.jpg)
+Query Image: ![query image](queries/Hand_0008111.jpg)
 	
-search results:
+Search Results: ![result image](results/lbp/Hand_0008110.jpg) 
 	
 	
 **SIFT**
