@@ -57,13 +57,8 @@ User can run each of the tasks as simple python scripts, with different options 
 
 ### LBP
 Query Image            |  Search Results
-:-------------------------:|:-------------------------:
-![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)
-
-Query Image: ![query image](queries/Hand_0008111.jpg)
-	
-Search Results: ![result image](results/lbp/Hand_0008110.jpg) 
-	
+:-------------------------:|:-------------------------:|:-------------------------:
+![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)  |  ![](results/lbp/Hand_00081130.jpg)
 	
 **SIFT**
 
