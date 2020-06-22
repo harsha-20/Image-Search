@@ -57,7 +57,7 @@ User can run each of the tasks as simple python scripts, with different options 
 
 **LBP**
 
-![query image](https://github.com/harsha-20/Image-Search/blob/master/queries/Hand_0008111.jpg)
+![query image](queries/Hand_0008111.jpg)
 	
 	
 search results:
