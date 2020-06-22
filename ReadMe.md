@@ -55,10 +55,10 @@ User can run each of the tasks as simple python scripts, with different options 
 
 # Results:
 
-**LBP**
+-LBP
 
-![query image](queries/Hand_0008111.jpg)
-Format: ![query image](https://github.com/harsha-20/Image-Search/blob/master/queries/Hand_0008111.jpg)
+-Query Image![query image](queries/Hand_0008111.jpg)
+-Format: ![query image](https://github.com/harsha-20/Image-Search/blob/master/queries/Hand_0008111.jpg)
 	
 search results:
 	
