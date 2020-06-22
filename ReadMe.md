@@ -52,3 +52,8 @@ User can run each of the tasks as simple python scripts, with different options 
 
     LBP- python search.py -i "lbp-small_db-index.csv" -q queries/Hand_0008111.jpg -db small_db -f lbp -l 3 -r results/lbp
     SIFT- python search.py -i "sift-small_db-index.pickle" -q queries/Hand_0000046.jpg -db small_db -f sift -l 3 -r results/sift
+
+# Results:
+
+	**LBP:**
+	**SIFT**
