@@ -56,7 +56,11 @@ User can run each of the tasks as simple python scripts, with different options 
 # Results:
 
 **LBP**
+
 	query image:
+	
 	search results:
+	
+	
 **SIFT**
 
