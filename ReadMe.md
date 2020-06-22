@@ -19,10 +19,10 @@ The system successfully runs on an windows and linux machines with Anaconda3. Pr
 
 conda create -n myenv python=3.6     
 conda activate myenv
-conda install -c menpo opencv # for SIFT
+conda install -c menpo opencv  for SIFT
 conda install -c anaconda scipy
 conda install -c anaconda numpy
-conda install -c conda-forge scikit-image # LBP
+conda install -c conda-forge scikit-image  LBP
 
 # Instructions to run
 User can run each of the tasks as simple python scripts, with different options as command line arguments.Below are the sample command line executions for each tasks
