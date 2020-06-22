@@ -1,6 +1,6 @@
-# CSE 515: MULTIMEDIA AND WEB DATABASES -Phase 1
+# Image Search 
 
-The main objective of this phase to convert the image to a different vector space using feature descriptors SIFT ( Scale Invariant Feature Transform) and LBP (Local Binary Patterns)  and measuring the similarity between two images using a distance metric.
+The main objective of this project is to convert the image to a different vector space using feature descriptors SIFT ( Scale Invariant Feature Transform) and LBP (Local Binary Patterns)  and measuring the similarity between two images using a distance metric. Finally return k similar images to the query image.
 
 
 
