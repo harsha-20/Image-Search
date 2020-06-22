@@ -63,4 +63,4 @@ Query Image            |  Search Result 1              | Search Result 2
 #### SIFT
 Query Image            |  Search Result 1              | Search Result 2
 :-------------------------:|:-------------------------:|:-------------------------:
-![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)  |  ![](results/lbp/Hand_0008498.jpg)
+![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)  |  ![](results/lbp/Hand_0011498.jpg)
