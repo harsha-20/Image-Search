@@ -1,6 +1,7 @@
 # Image Search 
 
-The main objective of this project is to convert the image to a different vector space using feature descriptors SIFT ( Scale Invariant Feature Transform) and LBP (Local Binary Patterns)  and measuring the similarity between two images using a distance metric. Finally return k similar images to the query image.
+* The main objective of this project is to convert the image to a different vector space using feature descriptors SIFT ( Scale Invariant Feature Transform) and LBP (Local Binary Patterns)  and measuring the similarity between two images using a distance metric. 
+* Find similarity metric for all the images with search image and return k most similar images.
 
 
 
