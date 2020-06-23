@@ -51,14 +51,14 @@ User can run each of the tasks as simple python scripts, with different options 
 Query Image            |  Search Result 1              | Search Result 2
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](queries/Hand_0008111.jpg)  |  ![](results/lbp/Hand_0008110.jpg)  |  ![](results/lbp/Hand_0008130.jpg)
-	
+* LBP might have taken color into considerations rather than face of the image
 #### SIFT
 Query Image            |  Search Result 1              | Search Result 2
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](queries/Hand_0008111.jpg)  |  ![](results/sift/Hand_0008110.jpg)  |  ![](results/sift/Hand_0011498.jpg)
+* SIFT looks for key points and might have taken face of the image into major consideration.
 
 # Conclusions:
-
 * The intricacies of a dealing with vector based representation of multimedia objects was observed in areas spanning that can help retrieve results based on distance measures. 
 * Eﬃcient representation of multimedia objects using feature vectors using feature descriptors-LBP and SIFT was implemented, storing the obtained results in a ﬁle system and to see how it helps the ease the process of comparison.
 * For now, cosine similarity was used to measure similarity between LBP and FLANN Matcher was used to match the keypoints in SIFT.
